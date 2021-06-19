@@ -1,5 +1,5 @@
 %citizensixtynine
-Hey, my name is Leila, a transgender Content Creator living in Mexico City!
+Hey, my name is Kris, a transgender Content Creator living in Mexico City!
 
 ![bingus](ast/dab.gif)
 
@@ -14,9 +14,8 @@ I do a lot of stuff on my free time but this is kind of a summary of what I do (
 
 I'm currently working for the Kritterhouse maintaining and developing their in-house (haha get it) projects like USBWorld and TKA. (I'm also the CEO/Founder of it lol)
 
-
 ### Contact Me ☎️
-You can find me in the following places (but please don't spam me or ask me to work for your company/project, for that stuff email me at leila@c69.uk):
+**DISCLAIMER: BEFORE YOU CONTACT ME, PLEASE READ [THIS WEBSITE](http://c69.uk/b4ucm), OK THANKS**
 
 + [Telegram](https://t.me/citizensixtynine)
 + [Keybase](https://keybase.io/kamikodev)
@@ -53,23 +52,33 @@ You can find me in the following places (but please don't spam me or ask me to w
 #### Ongoing
 - [SeaSixty](https://github.com/CITIZENSIXTYNINE/SeaSixty) - Yet Another Dracula theme for Discord.
 - The Kritter Archive - Public archive for Lost Media content and odd computer software.
-- We Think We're Playing in a Band - Essay about the band "Tally Hall"
 - Kōmōdía - Essay about about Comedy on Youtube and the Intenet as a whole during the early 2000s to the late 2010s
 
 #### Paused:
-- [USBWorld](https://c69.uk/usbworld) - DeadDrops but on the go!
+- [USBWorld](http://c69.uk/usbworld) - DeadDrops but on the go!
+- We Think We're Playing in a Band - Essay about the band "Tally Hall"
 
 #### Cancelled:
 - Discordo - Discord API Wrapper written in C++; Cancelled in Fall 2020
 
-### Other fun stuff about me 🎉
-- I'm Demisexual/Biromantic... idrk who will care about this but meh.
-- My pronouns are they/she
-- I like walking until my feet hurt
-- I'm a criminal in over 70 countries 😎
-- I can only hold my breath for 40 seconds
-- My current job is Video Edting
-- Life is meaningless
+### Socials 🤡
+Here is a comprehensive list of all my social media, there are more accounts under other aliases but I don't want to list them (you'll see why if you scroll down).
 
-`C69 - CC-BY-4.0`
++ [Twatter](https://twitter.com/kindapale)
++ [Reddit](https://reddit.com/u/l31la)
++ [Mastodon](https://skrt.social/@citizensixtynine)
++ [Medium](https://medium.com/@citizensixtynine)
++ [Tumblr](https://mexicanmcflurry.tumblr.com)
+
+### Trivia (about me ofc) 🎉
+- I'm a professional procrastinator.
+- You're now breathing manually.
+- I also go by the following names (kind of my plurals): Leila, Kristen and Adrian.
+- I'm Greysexual/Biromantic-
+- My family is filled with manipulative pieces of shit (me included!)
+- My pronouns are usually they/them but you can also use she/her.
+- I'm a criminal in over 70 countries 😎
+- Life is meaningless.
+
+`C69 - CC-BY-4.0 - 06/2021`
 
