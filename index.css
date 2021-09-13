@@ -1,0 +1,50 @@
+/* Imports the Roboto Slab font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body {
+	background: #F9F5F1;
+	font-family: 'Roboto Slab', serif;
+}
+
+div {
+	display: block;
+}
+
+h1 {
+	font-size: 300%;
+}
+
+#imgLeft {
+	padding: 150px;
+}
+
+#contRight {
+	float: right;
+	align-items: center;
+	justify-content: center;
+	padding: 15	0px;
+}
+
+/* The following lines of code are the result of 3 hours trying to make CSS not be a bitch and center some fucking icons */
+#contRow {
+	display: flex;
+	flex-direction: row;
+	float: right;
+	padding: 20px;
+}
+
+#logoTwitter {
+  	position: inherit;
+}
+
+#logoTwitter {
+  	position: inherit;
+}
+
+#logoTwitter {
+  	position: inherit;
+}
+
+#logoTwitter {
+  	position: inherit;
+}
