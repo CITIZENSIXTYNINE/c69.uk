@@ -15,36 +15,15 @@ h1 {
 }
 
 #imgLeft {
-	padding: 150px;
+	float: left;
+	padding-left: 200px;
+	padding-top: 200px;
 }
 
 #contRight {
 	float: right;
 	align-items: center;
 	justify-content: center;
-	padding: 15	0px;
-}
-
-/* The following lines of code are the result of 3 hours trying to make CSS not be a bitch and center some fucking icons */
-#contRow {
-	display: flex;
-	flex-direction: row;
-	float: right;
-	padding: 20px;
-}
-
-#logoTwitter {
-  	position: inherit;
-}
-
-#logoTwitter {
-  	position: inherit;
-}
-
-#logoTwitter {
-  	position: inherit;
-}
-
-#logoTwitter {
-  	position: inherit;
+	padding: 70px;
+	text-align: right;
 }
