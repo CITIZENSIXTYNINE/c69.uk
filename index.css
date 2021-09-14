@@ -13,17 +13,18 @@ div {
 h1 {
 	font-size: 300%;
 }
-
+/* uncomment after february 2022
 #imgLeft {
 	float: left;
 	padding-left: 200px;
 	padding-top: 200px;
 }
+*/ 
 
 #contRight {
 	float: right;
-	align-items: center;
-	justify-content: center;
-	padding: 70px;
+	align-items: right;
+	justify-content: right;
+	padding: 80px;
 	text-align: right;
 }
