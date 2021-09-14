@@ -13,7 +13,8 @@ div {
 h1 {
 	font-size: 300%;
 }
-/* uncomment after february 2022
+
+/* uncomment after february 2022... and after i fix this
 #imgLeft {
 	float: left;
 	padding-left: 200px;
@@ -21,10 +22,10 @@ h1 {
 }
 */ 
 
-#contRight {
+#contFrontpage #contContact{
 	float: right;
 	align-items: right;
 	justify-content: right;
-	padding: 80px;
+	padding: 50px;
 	text-align: right;
 }
