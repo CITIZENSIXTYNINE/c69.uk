@@ -5,10 +5,6 @@ body {
 	font-family: 'Roboto Slab', serif;
 }
 
-div {
-	display: block;
-}
-
 h1 {
 	font-size: 300%;
 }
@@ -17,6 +13,6 @@ h1 {
 	float: right;
 	align-items: right;
 	justify-content: right;
-	padding: 50px;
 	text-align: right;
+	padding: 50px;
 }
