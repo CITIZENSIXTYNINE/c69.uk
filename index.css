@@ -7,10 +7,15 @@ body {
 
 h1 {
 	font-size: 300%;
-	color: #454545;
 }
 
-h2 {
+
+#content{
+	float: right;
+	align-items: right;
+	justify-content: right;
+	text-align: right;
+	padding: 50px;
 	color: #454545;
 }
 
@@ -20,12 +25,4 @@ a:link {
 
 a:visited{
 	color: #B55C87;
-}
-
-#content{
-	float: right;
-	align-items: right;
-	justify-content: right;
-	text-align: right;
-	padding: 50px;
 }
