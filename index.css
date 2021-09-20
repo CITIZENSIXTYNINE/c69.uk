@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
 body {
+	text-align: right;
 	background: #F9F5F1;
+	color: #454545;
 	font-family: 'Roboto Slab', serif;
 }
 
@@ -9,13 +11,10 @@ h1 {
 	font-size: 300%;
 }
 
-#content{
+#content {
+	position: relative;
 	float: right;
-	align-items: right;
-	justify-content: right;
-	text-align: right;
 	padding: 50px;
-	color: #454545;
 }
 
 a:link {

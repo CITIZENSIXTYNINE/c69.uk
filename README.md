@@ -2,7 +2,7 @@
 
 [c69.uk](c69.uk) is my personal website. its more of a "business card" than a portafolio or whatever.
 
-The site measures under 5kb by itself.
+The site measures under 10kb by itself. <!-- this limit increases every fucking time i update the site please help -->
 
 Site is hosted on [Github Pages](github.io) and uses [DigitalOcean](https://digitalocean.com) as its "CDN" for images and documents.
 
