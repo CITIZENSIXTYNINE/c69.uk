@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
+/* HTML Tags */
+
 body {
 	text-align: right;
 	background: #F9F5F1;
@@ -10,6 +12,12 @@ body {
 h1 {
 	font-size: 300%;
 }
+
+h4 {
+	color: #6F6F6F;
+}
+
+/* IDs and Classes */
 
 #content {
 	position: relative;
