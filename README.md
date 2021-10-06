@@ -4,7 +4,7 @@
 
 The site measures 6.7kb by itself. (not counting the images and media stored in DigitalOcean)
 
-Site is hosted on [Github Pages](github.io) and uses [DigitalOcean](https://www.digitalocean.com/?refcode=623c0c46983a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) as its "CDN" for images and documents.
+Site is hosted on [Github Pages](github.io) and uses [DigitalOcean](https://m.do.co/c/623c0c46983a) as its "CDN" for images and documents.
 
 This site is so lightweight that it got rejected from the [1MB Club](https://1mb.club) for being [too lightweight](https://github.com/bradleytaunt/1mb-club/pull/773)!
 
