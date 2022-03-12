@@ -2,7 +2,7 @@
 
 [c69.uk](c69.uk) is my personal website. its more of a "business card" than a portafolio or whatever.
 
-The site measures 6.7kb by itself. (not counting the images and media stored in DigitalOcean)
+The site measures under 7kb by itself. (not counting the images and media stored in DigitalOcean)
 
 Site is hosted on [Github Pages](github.io) and uses [DigitalOcean](https://m.do.co/c/623c0c46983a) as its "CDN" for images and documents.
 

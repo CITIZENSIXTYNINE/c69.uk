@@ -32,3 +32,35 @@ a:link {
 a:visited{
 	color: #B55C87;
 }
+
+/* Animation in Index site */
+
+span{
+	color: #FF6666;
+}
+
+span::before{
+	animation: animate infinite 5s;
+	content: "";
+}
+
+@keyframes animate{
+	1%{
+		content: "Content Creator";
+	}
+	20%{
+		content: "Hardware Engineer";
+	}
+	40%{
+		content: "Music Producer";
+	}
+	60%{
+		content: "Video Editor"
+	}
+	80%{
+		content: "Dataminer";
+	}
+	100%{
+		content: "Writer";
+	}
+}
