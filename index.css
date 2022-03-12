@@ -41,7 +41,7 @@ span{
 
 span::before{
 	animation: animate infinite 5s;
-	content: "";
+	content: "Content Creator";
 }
 
 @keyframes animate{
